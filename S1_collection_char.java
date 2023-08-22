@@ -1,4 +1,4 @@
-class collection_char {
+class S1_collection_char {
     public static void main(String[] args) {
         char[] ch = { 'h', 'e', 'l', 'l', 'o' }; //character array
         String str = new String(ch); //character array to string
