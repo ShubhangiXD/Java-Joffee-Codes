@@ -1,3 +1,4 @@
+package strings;
 import java.util.*;
 
 public class S2_inputs_line {

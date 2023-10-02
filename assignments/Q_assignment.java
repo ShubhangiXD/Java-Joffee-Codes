@@ -1,3 +1,4 @@
+package assignments;
 //decode the given array using concepts taught to you today!
 public class Q_assignment {
     public static void main(String[] args) {

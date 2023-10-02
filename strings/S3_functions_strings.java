@@ -1,3 +1,4 @@
+package strings;
 public class S3_functions_strings {
     public static void main(String[] args) {
         String str = "Hello World ";

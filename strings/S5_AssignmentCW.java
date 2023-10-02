@@ -1,3 +1,4 @@
+package strings;
 public class S5_AssignmentCW {
     // write a program to convert all uppercase to lowercase characters and
     // print the string

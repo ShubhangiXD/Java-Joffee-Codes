@@ -1,3 +1,4 @@
+package strings;
 class S1_collection_char {
     public static void main(String[] args) {
         char[] ch = { 'h', 'e', 'l', 'l', 'o' }; //character array
