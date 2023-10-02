@@ -14,8 +14,8 @@ public class C2_studentconstructor {
     }
 
     public static void main(String[] args) {
-        C2_studentconstructor s1 = new C2_studentconstructor();
-        C2_studentconstructor s2 = new C2_studentconstructor();
+        C2_studentconstructor s1 = new C2_studentconstructor(1, "Rakesh");
+        C2_studentconstructor s2 = new C2_studentconstructor(2, "Mohini");
         s1.display();
         s2.display();
     }
